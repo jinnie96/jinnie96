@@ -5,7 +5,7 @@ I am passionate about creating powerful full-stack websites.
 Connect:
 [![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png | width=250px)](https://github.com/jinnie96)
 
-<a href="https://github.com/jinnie96"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width="48"></a>
+<a href="https://github.com/jinnie96"><img src="https://www.linkedin.com/in/karandeep-singh-600852a8/" width="48"></a>
 <!--
 **jinnie96/jinnie96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
