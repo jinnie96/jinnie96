@@ -3,9 +3,8 @@
 I am passionate about creating powerful full-stack websites.
 
 Connect:
-[![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png | width=250px)](https://github.com/jinnie96)
 
-<a href="https://github.com/jinnie96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="48"></a>
+<a href="https://github.com/jinnie96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="100"></a>
 <!--
 **jinnie96/jinnie96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
