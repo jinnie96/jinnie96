@@ -4,7 +4,7 @@ I am passionate about creating powerful full-stack websites.
 
 Connect:
 
-<a href="https://github.com/jinnie96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50"></a>
+<a href="https://github.com/jinnie96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30"></a>
 <!--
 **jinnie96/jinnie96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
